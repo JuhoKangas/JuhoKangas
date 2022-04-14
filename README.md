@@ -5,11 +5,14 @@
 - Full Stack open Course by University of Helsinki MOOC
 - Getting better at climbing
 
+### 🌻 Also working as ...
+- Head of External Relations in Hexagon ry
+
 [![Juho's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhoKangas&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuhoKangas&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⛓ Links to contact me:
+### 📫 Links to contact me:
 - [LinkedIn](https://www.linkedin.com/in/juho-kangas-6807b3181/)
 - [Email](mailto:juhokn@gmail.com)
 
