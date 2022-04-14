@@ -9,6 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuhoKangas&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### ⛓ Links to contact me:
+- [LinkedIn](https://www.linkedin.com/in/juho-kangas-6807b3181/)
+- [Email](mailto:juhokn@gmail.com)
 
 <!--
 **JuhoKangas/JuhoKangas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
