@@ -3,10 +3,11 @@
 ### 🔭 I’m currently working on ...
 - Learning C programming in [@hivehelsinki](https://www.github.com/hivehelsinki) 
 - Full Stack open Course by University of Helsinki MOOC
-- Getting better at climbing
-
-### 🌻 Also working as ...
 - Head of External Relations in Hexagon ry
+
+### 🌻 Also working on ...
+- Getting better at climbing
+- Going on adventures, this year will include biking the west coast of Finland and another kayak expedition to the outer archipelago of Kokkola
 
 [![Juho's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhoKangas&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
