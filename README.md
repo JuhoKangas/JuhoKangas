@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on ...
-- Learning C programming in Hive Helsinki
+- Learning C programming in [@hivehelsinki](https://www.github.com/hivehelsinki) 
 - Full Stack open Course by University of Helsinki MOOC
 - Getting better at climbing
 
