@@ -7,6 +7,7 @@
 
 ### 🌻 Also working on ...
 - Getting better at climbing
+- Getting the Hive Helsinki Cybersecurity Club up and running
 - Going on adventures, this year will include biking the west coast of Finland and another kayak expedition to the outer archipelago of Kokkola
 
 [![Juho's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhoKangas&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
