@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I'm software/full-stack developer student, cybersecurity enthusiast and an all-around outdoor person.
+
 ### 🔭 I’m currently working on ...
 - Learning C programming in [@hivehelsinki](https://www.github.com/hivehelsinki) 
 - Full Stack open Course by University of Helsinki MOOC
 - Head of External Relations in Hexagon ry
+- Portswigger Web security Academy
 
 ### 🌻 Also working on ...
 - Getting better at climbing
