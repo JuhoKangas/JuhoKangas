@@ -3,7 +3,7 @@
 I'm software/full-stack developer, cybersecurity enthusiast and an all-around outdoor person.
 
 ### 🔭 I’m currently working on ...
-- Learning C programming and full-stack development in [@hivehelsinki](https://www.github.com/hivehelsinki) 
+- Learning C programming and full-stack development in [@hivehelsinki](https://hive.fi/) 
 - Full Stack open Course by University of Helsinki MOOC
 - Head of External Relations in Hexagon ry
 - Portswigger Web security Academy
