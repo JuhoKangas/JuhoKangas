@@ -23,7 +23,7 @@ I'm software/full-stack developer, cybersecurity enthusiast and an all-around ou
 
 ## [Matcha](https://github.com/JuhoKangas/matcha)
 - Dating application build with React, Node, Express and PostgreSQL
-- Still a work in process
+- Still a work in process, needs an actual readme
 
 
 ## [Libft](https://github.com/JuhoKangas/Libft_42) <sub><sup>For lower level stuff</sup></sub>
