@@ -3,14 +3,13 @@
 I'm software/full-stack developer, cybersecurity enthusiast and an all-around outdoor person.
 
 ### 🔭 I’m currently working on ...
-- Learning C programming and full-stack development in [@hivehelsinki](https://www.hive.fi/en/) 
-- Full Stack open Course by University of Helsinki MOOC
-- Head of External Relations in Hexagon ry
-- Portswigger Web security Academy
+- Full-stack developer at [Columbia Road](https://www.columbiaroad.com/)
+- Honing my C-programming and full-stack skills in [@hivehelsinki](https://www.hive.fi/en/) 
+- Ex-Head of External Relations in Hexagon ry, now a deputy member of board
+- Learning cyber security and ethical hacking as a hobby
 
 ### 🌻 Also working on ...
 - Getting better at climbing
-- Getting the Hive Helsinki Cybersecurity Club up and running
 - Going on adventures
 
 ### 💻 Check these projects for starters
