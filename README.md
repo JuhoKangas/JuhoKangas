@@ -41,7 +41,7 @@ I'm software/full-stack developer, cybersecurity enthusiast and an all-around ou
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuhoKangas&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Links to contact me:
-- [LinkedIn](https://www.linkedin.com/in/juho-kangas-6807b3181/)
+- [LinkedIn](https://www.linkedin.com/in/juhokangas42/)
 - [Email](mailto:juhokn@gmail.com)
 
 <!--
