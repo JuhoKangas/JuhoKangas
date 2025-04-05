@@ -3,9 +3,8 @@
 I'm software/full-stack developer, cybersecurity enthusiast and an all-around outdoor person.
 
 ### 🔭 I’m currently working on ...
-- Full-stack developer at [Columbia Road](https://www.columbiaroad.com/)
-- Honing my C-programming and full-stack skills in [@hivehelsinki](https://www.hive.fi/en/) 
-- Ex-Head of External Relations in Hexagon ry, now a deputy member of board
+- Software Engineer at [Wolt](https://www.wolt.com/)
+- Co-founder at [Frobe](https://www.frobe.fi)
 - Learning cyber security and ethical hacking as a hobby
 
 ### 🌻 Also working on ...
