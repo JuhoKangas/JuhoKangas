@@ -4,7 +4,6 @@ I'm software/full-stack developer, cybersecurity enthusiast and an all-around ou
 
 ### 🔭 I’m currently working on ...
 - Software Engineer at [Wolt](https://www.wolt.com/)
-- Co-founder at [Frobe](https://www.frobe.fi)
 - Learning cyber security and ethical hacking as a hobby
 
 ### 🌻 Also working on ...
